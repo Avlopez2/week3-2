@@ -66,18 +66,19 @@ print ("I am"+ age)
 print ( "my name is Ashley"+ name )
 print ( "my favorite song is When I was Your Man By Bruno Mars"+ song)
 print ("my favorite food is pambasos"+ food)
-print ("my favorite number is"+ nu mumber )
+print ("my favorite number is"+ number )
 
 # Once upon a time, there was a [age] old coder named [name].
 print (" once upon a time, there was a "+ str(age)+"old coder named"+,name +".")
 #f string 
 print(f" once upon a time, there was a "+ {age}+"old coder named"+,name +".")
 # [name] liked to hum the song [song] while coding. It was so annoying that their teammates would throw [food] until [name] would stop singing.
-print (name "like to hum to the song "+ song "while coding. it was so annoying that there teammates would throw " + food + "until"+ name + " would stop singing")
+print (name+"like to hum to the song "+ song + "while coding. it was so annoying that there teammates would throw " + food + "until"+ name + " would stop singing")
 
 
 # Still, [name] was the best coder on the team and could write [number] lines of code every day. Maybe [song] was [name]’s secret power?
 ##########################################################################################
+print (f "still"+ name +"was the best coder on the team and could write" + number + "lines of code every day. Maybe "+ song +"was"+ name+"secret power?")
 
 
 
@@ -113,13 +114,13 @@ print (name "like to hum to the song "+ song "while coding. it was so annoying t
 # Correcting Invalid Names: Below are some invalid names. Correct them according to the rules:
 
 
-# 1st_name
-# last name
-# email@address
-# percent%
-# variable#name
-# O
-# list
+# FirstName
+# last_name
+# email_address
+# percent
+# variable_name
+# Zero
+# list_of_names
 # Creating Valid Names: Create valid names for the following descriptions:
 
 
@@ -140,10 +141,10 @@ print (name "like to hum to the song "+ song "while coding. it was so annoying t
 # email_address
 # percentage
 # variable_name
-# 1_variable
-# email@address
-# percentage%
-# i
+# First_variable
+# emailaddress
+# percentage
+# Illinois
 
 
 
