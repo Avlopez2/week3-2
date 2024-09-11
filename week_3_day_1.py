@@ -235,6 +235,18 @@ print (sqrt(36)) # square root method
 # # # find the max number
 # # # find the remainder of the numbers
 # # #round one number
+name= input("what is your name?")
+print (2*2) # multiplying numbers 
+first_number = int(input (" can you give me a number?"))
+second_number = int(input ( " can you give me another number?"))
+print ( first_number + second_number)
+print (first_number* second_number) #  multiplying 2 numbers 
+print(max(first_number,second_number)) # find max number
+print (first_number%second_number) # finds the remainder 
+print ( round (first_number))
+
+
+
 
 
 
